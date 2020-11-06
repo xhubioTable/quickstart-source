@@ -22,5 +22,10 @@
   },
   "dependencies": {
     "@xhubiotable/processor": "^2.1.2"
+  },
+  "template": {
+    "usedBy": [
+      "xhubioTable/tutorial-source"
+    ]
   }
 }
